@@ -5,6 +5,9 @@ Kompetensi SDKD
    - Email
 3. Github
    - Membuat Akun
-   - Membuat Repository (file baru dan commit)
+
+   - Membuat Repository 
+   - Membuat File Baru
+   - Membuat Commit
 4. Git
    - Belum
