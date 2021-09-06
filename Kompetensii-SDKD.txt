@@ -4,4 +4,8 @@ Kompetensi SDKD
 2. Komunikasi Daring Asinkron
    - Email
 3. Github
+   - Membuat Akun
+   - Membuat Repository 
+   - Membuat File Baru
+   - Membuat Commit
 4. Git
